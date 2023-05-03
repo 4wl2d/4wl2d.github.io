@@ -48,8 +48,8 @@ const config = {
     'SOLID',
     'MySQL',
     'PostgreSQL',
-    'TDD',
-    'SOLID'
+    'Dagger',
+    'Hilt'
   ],
   experiences: [
     {
