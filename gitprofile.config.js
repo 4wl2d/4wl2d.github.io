@@ -43,6 +43,7 @@ const config = {
     'RxJava',
     'Git',
     'Gradle',
+    'Clean Architecture',
     'MVVM',
     'TDD',
     'SOLID',
@@ -56,8 +57,20 @@ const config = {
       company: 'myself',
       position: 'Android Developer',
       from: 'January 2023',
-      to: 'Present',
+      to: 'May 2023',
       companyLink: 'https://github.com/4wl2d',
+    },
+    {
+      company: 'Proton IT',
+      position: 'Android Developer',
+      from: 'May 2023',
+      to: 'June 2023',
+    },
+    {
+      company: 'SportScanner',
+      position: 'Junior Android Developer',
+      from: 'June 2023',
+      to: 'Present',
     }
   ],
   education: [
