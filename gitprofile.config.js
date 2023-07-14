@@ -64,13 +64,13 @@ const config = {
       company: 'Proton IT',
       position: 'Android Developer',
       from: 'May 2023',
-      to: 'June 2023',
+      to: 'Present',
     },
     {
-      company: 'SportScanner',
+      company: 'Omegawalls OU',
       position: 'Junior Android Developer',
       from: 'June 2023',
-      to: 'Present',
+      to: 'July 2023',
     }
   ],
   education: [
